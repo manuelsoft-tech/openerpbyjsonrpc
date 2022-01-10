@@ -25,7 +25,7 @@
         "laminas/laminas-json": "~3.1",
         "laminas/laminas-server": "~3.1",
         "laminas/laminas-http": "~2.13",
-        "laminas/laminas-json-server": "^3.2"
+        "laminas/laminas-json-server": "^4.0"
     },
 
     "require-dev": {
