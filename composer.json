@@ -22,7 +22,7 @@
     "require": {
         "php": ">=8.1",
         "ext-json": "*",
-        "laminas/laminas-json": "~3.4",
+        "laminas/laminas-json": "~3.3",
         "laminas/laminas-server": "~3.1",
         "laminas/laminas-http": "~2.16",
         "laminas/laminas-json-server": "^4.0"
